@@ -3,6 +3,14 @@
 <h2>About Me:</h2>
 <p>I'm fresher passionate about Machine Learning, Data Science, and AI applications, who loves turning raw data into simple, meaningful solutions. I’m still learning every day, but I enjoy building small ML projects, exploring new ideas, and improving step by step.</p>
 
+
+<h3>Education:</h3>
+
+<ul>
+  <li><strong>Bachelor of Technology (B.Tech)</strong> – Computer Science  
+  [Guru Nanak Institutions Technical Campus], 2021–2025</li>
+</ul>
+
 <h2>Skills: </h2>
 
 <ul>
