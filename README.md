@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shruthi! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
+<h1>Hi, I'm Shruthi! <br/><a href="https://github.com/Shruthi-1005" >AI Enthusiast</a>, <a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
 
 <h2> Projects:</h2>
 
