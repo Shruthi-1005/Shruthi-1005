@@ -36,7 +36,8 @@
 
 - <b>Employee salary prediction using machine learning algorithms</b>
   - [Predicting the employees's salary](https://github.com/Shruthi-1005/Employee-salary-prediction-using-machine-learning-algorithm)
-
+- <b>Safety Helmet Detection using YOLOV8 Algorithm</b>
+  - [Detecting whether the person is wearing safety helmet or not](https://github.com/Shruthi-1005/Safety-helmet-detection-using-YOLOV8-Algorithm)
 
 <h2>Certifications</h2>
 
