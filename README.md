@@ -16,19 +16,18 @@
   <li>Soft Skills</li>
 </ul>
 
-<h2> Projects:</h2>
+<h3> Projects:</h3>
 
 - <b>Employee salary prediction using machine learning algorithms</b>
   - [Predicting the employees's salary](https://github.com/Shruthi-1005/Employee-salary-prediction-using-machine-learning-algorithm)
 
 
-<h2>Certifications</h2>
+<h4>Certifications</h4>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Python Essentials-Cisco Networking Acadamy
+- AI Foundations-Oracle University
+- AI Fundamentals-IBM SKkillBuild
+- Java Full Stack-TalentNext by Wipro
 
 <h2> 🤳 Connect with me:</h2>
 
