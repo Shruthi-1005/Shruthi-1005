@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shruthi! <br/><a href="https://github.com/Shruthi-1005" >AI Enthusiast</a>, <a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
+<h1>Hi, I'm Shruthi! <br/><a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
 
 <h2>About Me:</h2>
 <p>I'm fresher passionate about Machine Learning, Data Science, and AI applications, who loves turning raw data into simple, meaningful solutions. I’m still learning every day, but I enjoy building small ML projects, exploring new ideas, and improving step by step.</p>
