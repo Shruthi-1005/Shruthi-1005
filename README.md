@@ -13,7 +13,6 @@
   <li>Pandas, Numpy</li>
   <li>Sckitlearn</li>
   <li>Visualization Tools</li>
-  <li>Soft Skills</li>
 </ul>
 
 
