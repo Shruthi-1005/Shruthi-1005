@@ -43,7 +43,7 @@
 - Python Essentials-Cisco Networking Acadamy
 - AI Foundations-Oracle University
 - AI Fundamentals-IBM SKkillBuild
-- Java Full Stack-TalentNext by Wipro
+- Introduction to Github Copilot by microsoft
 
 <h2> 🤳 Connect with me:</h2>
 
