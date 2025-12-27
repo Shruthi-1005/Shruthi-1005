@@ -49,11 +49,7 @@
 
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto: thammishruthi1@gmail.com)
 [<img align="left" alt="Shruthi-1005 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shruthi-1005 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-
-[instagram]: https://www.instagram.com/itzs_me_shruthi/
 [linkedin]: https://www.linkedin.com/in/shruthi-thammi/
 
 <!--
