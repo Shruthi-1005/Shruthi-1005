@@ -1,19 +1,24 @@
-<h1>Hi, I'm Shruthi! <br/><a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
+<h1>Hi, I'm Shruthi Thammi! <br/><a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
 
 <h2>About Me:</h2>
 <p>I'm fresher passionate about Machine Learning, Data Science, and AI applications, who loves turning raw data into simple, meaningful solutions. I’m still learning every day, but I enjoy building small ML projects, exploring new ideas, and improving step by step.</p>
 
-<h2>Skills: </h2>
+## 🛠️ Languages & Tools
 
-<ul>
-  <li>Python</li>
-  <li>Machine Learning</li>
-  <li>Artificial Intelligence</li>
-  <li>SQL</li>
-  <li>Pandas, Numpy</li>
-  <li>Sckitlearn</li>
-  <li>Visualization Tools</li>
-</ul>
+<p align="left">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
+</p>
 
 
 <h2>Internships</h2>
@@ -45,24 +50,12 @@
 - AI Fundamentals-IBM SKkillBuild
 - Introduction to Github Copilot by microsoft
 
-<h2> 🤳 Connect with me:</h2>
+## 🤝 Connect With Me
 
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto: thammishruthi1@gmail.com)
-[<img align="left" alt="Shruthi-1005 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left">
+<a href="https://www.linkedin.com/in/shruthi-thammi/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/shruthi-thammi/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
