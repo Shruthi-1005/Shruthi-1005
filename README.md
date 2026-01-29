@@ -1,7 +1,17 @@
-<h1>Hi, I'm Shruthi Thammi! <br/><a href="https://www.linkedin.com/in/shruthi-thammi/">AI/ML Engineer</a></h1>
+<h1 align="center">Hi 👋, I'm Shruthi Thammi!</h1>
+<h2 align="center">
+Machine Learning Engineer • Data Scientist • AI/ML • NLP Enthusiast
+</h2>
 
-<h2>About Me:</h2>
-<p>I'm fresher passionate about Machine Learning, Data Science, and AI applications, who loves turning raw data into simple, meaningful solutions. I’m still learning every day, but I enjoy building small ML projects, exploring new ideas, and improving step by step.</p>
+
+<p align="center">
+I'm a fresher passionate about Machine Learning, Data Science, and AI applications, who loves turning raw data into simple, meaningful solutions. I’m still learning every day, but I enjoy building small ML projects, exploring new ideas, and improving step by step.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shruthi-1005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 ## 🛠️ Languages & Tools
 
