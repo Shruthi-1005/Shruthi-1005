@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruthi Thammi!</h1>
 <h2 align="center">
-Machine Learning Engineer • Data Scientist • AI/ML • NLP Enthusiast
+Machine Learning Engineer • Data Scientist • AI/ML • Computer Vision 
 </h2>
 
 
